@@ -1,11 +1,12 @@
-# Supply-chain-Disruption-Prediction-XAI-Optimization
-ML-driven disruption risk prediction using XGBoost and SHAP explainability,  with Linear Programming optimization for cost-risk trade-off  in supply chain shipping mode selection | DataCo Dataset
 # ML-Driven Disruption Risk Prediction with Explainable AI (XAI)
 ## for Resilient Supply Chain Network Optimization
 
+![Pipeline](https://img.shields.io/badge/Pipeline-ML%20→%20XAI%20→%20Optimization-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2.x-orange)
 ![SHAP](https://img.shields.io/badge/SHAP-0.49-green)
+![Optimization](https://img.shields.io/badge/Optimization-Linear%20Programming-red)
+![Dataset](https://img.shields.io/badge/Dataset-DataCo%20Supply%20Chain-informational)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
@@ -261,11 +262,21 @@ following doctoral research agenda:
 
 ## Author
 
-**[Your Name]**  
+**Shahrokh Ghasemi Dehcheshmeh**  
 PhD Candidate — Supply Chain Management & Operations Research  
 
 *This project was developed as part of doctoral research 
 preparation in ML-enhanced supply chain optimization.*
+
+---
+
+## Development Note
+This project was developed over three weeks of iterative 
+experimentation. AI coding assistants (Claude) were used 
+for code documentation and refactoring in the final stage. 
+All analytical decisions, model design choices, leakage 
+detection, and result interpretation were performed by 
+the author.
 
 ---
 
