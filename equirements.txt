@@ -1,3 +1,9 @@
+# Requirements for:
+# ML-Driven Disruption Risk Prediction with XAI
+# for Resilient Supply Chain Network Optimization
+#
+# Install: pip install -r requirements.txt
+# Note: xgboost version is pinned due to SHAP compatibility
 numpy>=1.24.0
 pandas>=2.0.0
 scikit-learn>=1.3.0
